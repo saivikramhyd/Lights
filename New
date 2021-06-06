@@ -1,0 +1,4 @@
+k = Katkam
+s = Sai
+v = Vikram
+print (k + s + v)
